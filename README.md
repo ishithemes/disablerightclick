@@ -1,5 +1,5 @@
-# Disable Right Click on Your Website
-This is a simple way to help you disable right click and F12 key on your website which prevent users from downloading important assets of your website like images, fonts or content.
+# Disable Right Click & F12 Key on Your Website
+This is a simple way to help you disable right click and F12 key on your website which prevent users from downloading important assets of your website like images, fonts or content. This is one of the most important part of data protection of your website which prevents users from downloading the content very easily. 
 
 ## Usage on a website
 You can watch the [Youtube Video](https://www.youtube.com/channel/UCP5LqUylO8P4z48Sn-4ElTg) for a video tutorial or follow simple step shown below : 
